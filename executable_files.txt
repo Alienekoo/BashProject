@@ -1,0 +1,38 @@
+/home/alekhyal/midterm/ total       :ON
+/home/alekhyal/midterm/. drwxrwxr-x alekhyal alekhyal 4096 Apr 2 00:12 .:UY
+/home/alekhyal/midterm/.. drwxr-xr-x alekhyal alekhyal 4096 Apr 24 02:30 ..:UY
+/home/alekhyal/midterm/aliases.txt -rw-rw-r-- alekhyal alekhyal 400 Mar 11 22:26 aliases.txt:UN
+/home/alekhyal/midterm/diff-hard -rw-rw-r-- alekhyal alekhyal 52 Mar 11 22:25 diff-hard:UN
+/home/alekhyal/midterm/diff-symbolic -rw-rw-r-- alekhyal alekhyal 744 Mar 11 22:24 diff-symbolic:UN
+/home/alekhyal/midterm/dip-users.txt -rw-rw-r-- alekhyal alekhyal 400 Mar 11 22:05 dip-users.txt:UN
+/home/alekhyal/midterm/dip-user-ver2 -rw-rw-r-- alekhyal alekhyal 400 Mar 11 23:49 dip-user-ver2:UN
+/home/alekhyal/midterm/etc-user -rw-rw-r-- alekhyal alekhyal 45915 Mar 11 22:20 etc-user:UN
+/home/alekhyal/midterm/etc-user-beg -rw-rw-r-- alekhyal alekhyal 220 Mar 11 22:20 etc-user-beg:UN
+/home/alekhyal/midterm/etc-user-end -rw-rw-r-- alekhyal alekhyal 1641 Mar 11 22:21 etc-user-end:UN
+/home/alekhyal/midterm/file1 -rw-rw-r-- alekhyal alekhyal 852513 Mar 11 21:58 file1:UN
+/home/alekhyal/midterm/file2 -rw-rw-r-- alekhyal alekhyal 23888 Mar 11 21:58 file2:UN
+/home/alekhyal/midterm/find-errors.txt -rw-rw-r-- alekhyal alekhyal 39845 Mar 11 22:13 find-errors.txt:UN
+/home/alekhyal/midterm/free.txt -rw-rw-r-- alekhyal alekhyal 204 Mar 11 21:52 free.txt:UN
+/home/alekhyal/midterm/group -r--r--r-- alekhyal alekhyal 60881 Mar 11 21:53 group:UN
+/home/alekhyal/midterm/group-count-users.txt -rw-rw-r-- alekhyal alekhyal 6 Mar 11 22:29 group-count-users.txt:UN
+/home/alekhyal/midterm/load.txt -rw-rw-r-- alekhyal alekhyal 17995 Mar 11 21:52 load.txt:UN
+/home/alekhyal/midterm/long-list.txt -rw-rw-r-- alekhyal alekhyal 237 Mar 11 21:52 long-list.txt:UN
+/home/alekhyal/midterm/passwd -r--r--r-- alekhyal alekhyal 4390043 Mar 11 21:53 passwd:UN
+/home/alekhyal/midterm/passwd-hard -rw-r--r-- root root 1719 Mar 11 01:26 passwd-hard:ON
+/home/alekhyal/midterm/passwd-symbolic -> /etc/passwd lrwxrwxrwx alekhyal alekhyal 11 Mar 11 22:21 passwd-symbolic -> /etc/passwd:UY
+/home/alekhyal/midterm/primary-groupids -rw-rw-r-- alekhyal alekhyal 1887 Mar 11 22:07 primary-groupids:UN
+/home/alekhyal/midterm/readme-names.txt -rw-rw-r-- alekhyal alekhyal 8189 Mar 11 22:13 readme-names.txt:UN
+/home/alekhyal/midterm/ total       :ON
+/home/alekhyal/midterm/. drwxrwxr-x alekhyal alekhyal 4096 Mar 11 23:40 .:UY
+/home/alekhyal/midterm/.. drwxrwxr-x alekhyal alekhyal 4096 Apr 2 00:12 ..:UY
+/home/alekhyal/midterm/test -rw-rw-r-- alekhyal alekhyal 0 Mar 11 22:31 test:UN
+/home/alekhyal/midterm/test12 -rw-rw-r-- alekhyal alekhyal 0 Mar 11 22:31 test12:UN
+/home/alekhyal/midterm/testing123 -rw-rw-r-- alekhyal alekhyal 0 Mar 11 22:32 testing123:UN
+/home/alekhyal/midterm/testing124 -rw-rw-r-- alekhyal alekhyal 0 Mar 11 22:31 testing124:UN
+/home/alekhyal/midterm/testing135 -rw-rw-r-- alekhyal alekhyal 0 Mar 11 22:31 testing135:UN
+/home/alekhyal/midterm/testing987 -rw-rw-r-- alekhyal alekhyal 0 Mar 11 22:31 testing987:UN
+/home/alekhyal/midterm/testinga12 -rw-rw-r-- alekhyal alekhyal 0 Mar 11 22:31 testinga12:UN
+/home/alekhyal/midterm/testingz45 -rw-rw-r-- alekhyal alekhyal 0 Mar 11 22:31 testingz45:UN
+/home/alekhyal/midterm/testmm -rw-rw-r-- alekhyal alekhyal 0 Mar 11 22:31 testmm:UN
+/home/alekhyal/midterm/testmm1462 -rw-rw-r-- alekhyal alekhyal 0 Mar 11 22:31 testmm1462:UN
+/home/alekhyal/midterm/        :ON
